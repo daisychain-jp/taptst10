@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
 require "taptst10"
+
+Taptst10::CLI.start
